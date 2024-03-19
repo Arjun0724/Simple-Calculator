@@ -1,0 +1,28 @@
+body{
+    display: flex;
+}
+
+.main{
+    border: 3px solid black;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.l,.l2{
+    margin-top: 8px;
+}
+
+#button1{
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#button2{
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
